@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aviscad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviscad&layout=compact&hide=blade,php&langs_count=7&locale=en&hide_title=false&card_width=320&theme=dracula&hide_border=false&order=1" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aviscad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviscad&layout=compact&hide=blade,php&langs_count=7&locale=en&hide_title=false&card_width=320&theme=dracula&hide_border=false&order=1" height="170" alt="languages graph"  />
 </div>
 
 ###
